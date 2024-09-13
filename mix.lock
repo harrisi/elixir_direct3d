@@ -1,0 +1,5 @@
+%{
+  "graphmath": {:hex, :graphmath, "2.6.0", "55d71ac55d943d75ec8beea131cbd2024e1d302537c43cfb79677656a8d5f099", [:mix], [], "hexpm", "eb418636060c7a011eff0898e9e90fa5a9e45e661b8ddce3ac664765a17f7bfa"},
+  "wx_ex": {:hex, :wx_ex, "0.3.0", "00dabd076b8ea200c5dac459de215dacb8143138d3ac09513c82fc42b67bc0f5", [:mix], [{:wx_ex_compiler, "> 0.0.0", [hex: :wx_ex_compiler, repo: "hexpm", optional: false]}], "hexpm", "eb17176a68cd16ff1bbdfe96615202cf8998125465cffe5fe26624cecfb0f52f"},
+  "wx_ex_compiler": {:hex, :wx_ex_compiler, "0.1.0", "fdfb7ec6f7d6f58bf9003ff27b83133cba0733510cbcb8598e1bf5c2d769b930", [:mix], [], "hexpm", "88b46c16d83910cbe1f57d29a5ad2e99ae23513e25bec4eb0cb5dadcbf705296"},
+}
